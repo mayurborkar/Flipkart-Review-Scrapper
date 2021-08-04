@@ -21,9 +21,15 @@ In thses project we extarct the flipkart website. In that we select a particular
 7. Comment
 
 ## DEMO
-In The Demo Section We Are Showing You The Deployment on Both The Enviornment Local as Well as Server
+In The Demo Section We Are Showing You The Deployment on Both The Enviornment Local as Well as Server.
+
+**1. Local Server**
 
 ![Screenshot (63)](https://user-images.githubusercontent.com/62636740/127959105-ede751df-1f5c-4cd2-a2b6-393b6924ae81.png)
+
+**2. Heroku**
+
+![Screenshot (65)](https://user-images.githubusercontent.com/62636740/128126420-ad695180-dc00-492d-a79c-55bf3e219bd1.png)
 
 ## FILE STRUCTURE
 
@@ -61,13 +67,18 @@ The Code is written in Python 3.7.11. If you don't have Python installed you can
 pip install -r requirements.txt
 ```
 
-## DEPLOYMENT ON AWS [ELASTIC BEANSTALK]
+## DEPLOYMENT ON AWS [ELASTIC BEANSTALK] & HEROKU
 
-Sign Into AWS Management Console With The Given Link
+Sign Into AWS Management Console & Heroku With The Given Link
 
 [AWS Management Console Link](https://aws.amazon.com/console/)
+
+[Heroku Login Link ](https://signup.heroku.com/login)
 
 ## TECHNOLOGY USED
 ![flask-logo](https://user-images.githubusercontent.com/62636740/90309868-ebae7480-df09-11ea-8750-6ca4445dfd8f.png)
 
 ![ AWS Elastic Beanstalk](https://user-images.githubusercontent.com/62636740/127960907-a6a13a42-3bdb-41f7-843d-493c7e168bd4.png)
+
+![heroku-logo](https://user-images.githubusercontent.com/62636740/128127046-dbcc862b-1312-4099-ae3c-bd27b8371a5a.png)
+
