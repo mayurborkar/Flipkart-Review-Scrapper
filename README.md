@@ -31,6 +31,10 @@ In The Demo Section We Are Showing You The Deployment on Both The Enviornment Lo
 
 ![Screenshot (65)](https://user-images.githubusercontent.com/62636740/128126420-ad695180-dc00-492d-a79c-55bf3e219bd1.png)
 
+**3. AWS Elastic Beanstalk**
+
+![Screenshot (66)](https://user-images.githubusercontent.com/62636740/128198133-10c0c62e-8527-4795-b6cd-32facc64c2e1.png)
+
 ## FILE STRUCTURE
 
 ```
